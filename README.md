@@ -296,6 +296,4 @@ This [WebRTC Video Conferencing](https://www.webrtc-experiment.com/video-confere
 | Edge | Version 16 or higher |
 | Safari | Version 11 on both MacOSX and iOS |
 
-# License
 
-[WebRTC Video Conferencing](https://github.com/muaz-khan/WebRTC-Experiment/tree/master/video-conferencing) is released under [MIT licence](https://www.webrtc-experiment.com/licence/) . Copyright (c) [Muaz Khan](https://plus.google.com/+MuazKhan).
